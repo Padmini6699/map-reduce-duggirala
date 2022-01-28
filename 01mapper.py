@@ -3,7 +3,7 @@
 
 f = open("purchases.txt","r")  # open file, read-only
 
-o = open("o.txt", "w") # open file, write
+o = open("Output.txt", "w") # open file, write
 
 for line in f:  
 
